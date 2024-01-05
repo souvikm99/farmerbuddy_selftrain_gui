@@ -1,0 +1,5 @@
+train: crop1/train/images
+val: crop1/valid/images
+
+nc: 7
+names: ['bhindi', 'grass', 'herb paris', 'horse weed', 'kerala', 'small weed', 'tori']

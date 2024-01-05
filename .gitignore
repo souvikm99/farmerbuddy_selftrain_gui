@@ -241,6 +241,9 @@ cmake-build-release/
 # IntelliJ
 out/
 
+.dataset/
+.venv/
+.crop1/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
